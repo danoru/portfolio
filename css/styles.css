@@ -17,6 +17,7 @@ h3 {
     font-family: 'Montserrat', sans-serif;
 }
 
+
 .top-container {
     background: #EAE2B7;
     padding-top: 100px;
@@ -36,13 +37,15 @@ h3 {
 }
 
 .middle-container {
-    background: red;
-    height: 200px;
+    background-color: #EAE2B7
+}
+
+.profile-pic {
     width: 200px;
+    height: 200px;
+    border-radius: 100%;
 }
 
 .bottom-container {
-    background: blue;
-    height: 200px;
-    width: 200px;
+    background-color:#EAE2B7
 }
