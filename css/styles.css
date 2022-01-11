@@ -5,14 +5,14 @@ body {
 }
 
 h1 {
-    color: #001d3d;
+    color: #072227;
     font-family: 'Sacramento', cursive;    
     font-size: 5.625rem;
     margin: 50px auto 0 auto;
 }
 
 h2 {
-    color: #001d3d;
+    color: #072227;
     font-family: 'Montserrat', sans-serif;
     font-size: 2.50rem;
     font-weight: normal;
@@ -20,7 +20,7 @@ h2 {
 }
 
 h3 {
-    color: #003566;
+    color: #35885B;
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -29,7 +29,7 @@ p {
 }
 
 a {
-    color: #003566;
+    color: #35858B;
 }
 
 a:hover {
@@ -37,7 +37,7 @@ a:hover {
 }
 
 hr {
-    color: #e4e8f9;
+    color: #AEFEFF;
     border-style: none;
     border-top-style: dotted;
     border-width: 5px;
@@ -46,7 +46,7 @@ hr {
 }
 
 .top-container {
-    background: #eae2b7;
+    background: #AEFEFF;
     padding-top: 100px;
     position: relative;
 }
@@ -98,7 +98,7 @@ hr {
 }
 
 .bottom-container {
-    background: #000814;
+    background: #072227;
     padding: 50px 0 20px 0;
 }
 
@@ -140,7 +140,7 @@ hr {
 }
 
 .copyright {
-    color: #eae2b7;
+    color: #4FBDBA;
     font-size: 0.75em;
     padding: 20px 0;
 }
